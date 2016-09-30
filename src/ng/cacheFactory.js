@@ -397,6 +397,8 @@ function $CacheFactoryProvider() {
  * $templateCache.get('templateId.html')
  * ```
  *
+ * **Note:** templateUrls are case sensitive.
+ *
  * See {@link ng.$cacheFactory $cacheFactory}.
  *
  */
